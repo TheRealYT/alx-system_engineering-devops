@@ -1,0 +1,1 @@
+find . -exec chown vincent:staff {} +
